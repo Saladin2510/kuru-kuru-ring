@@ -1,5 +1,5 @@
 const nama = "Saladin Octiano Bonanza"
-let usia = 14
+let usia = 15
 let no = 26
 let sekolah = "SMP N 1 AJIBARANG"
 let kelas = "IX D"
@@ -9,7 +9,7 @@ let mapel = "IT, MIPA & Bahasa"
 // console.log(biodata)
 
 function generateBiodata() { 
-    console.log(`haloo nama saya ${nama} dan usia saya ${14} tahun, saya duduk di kelas ${kelas} dengan no absen ${no} di sekolah ${sekolah}, dan saya menyukai mapel ${mapel}.`)
+    console.log(`haloo nama saya ${nama} dan usia saya ${15} tahun, saya duduk di kelas ${kelas} dengan no absen ${no} di sekolah ${sekolah}, dan saya menyukai mapel ${mapel}.`)
  }
 
  generateBiodata()
